@@ -42,3 +42,5 @@ its two defined fields: the high-volatility Sieve Field (P_n \le 400) and the lo
 ● Computational Mathematics
 ● Python
 ● LGO
+
+https://doi.org/10.5281/zenodo.17793590
