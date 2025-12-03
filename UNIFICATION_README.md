@@ -40,4 +40,14 @@ X}}} - \left( e \cdot
 + 6.36 \right)
 0.478%
 Derived LGO Constant
-The primary constraint constant (C_{\text{LGO}}) is derived analytically, removing its empirical
+The primary constraint constant (C_{\text{LGO}}) is derived analytically, removing its empirical nature:
+File Contents
+The file lgo_unified_field_equations_v4.py contains the complete Python implementation:
+1. Core Geometric Definitions: C_{\text{ZETA}} = 1/\sqrt{2} and C_{\text{MAX}} = 0.55.
+2. Structural Functions: Functions defining G, \hbar, c, and C_{\text{LGO}} based purely
+on geometric inputs.
+3. System Closure Test: The final calculation of M_P using the derived LGO constants to
+confirm internal consistency.
+Usage
+To run the verification script and see the structural derivations:
+python lgo_unified_field_equations_v4.py
